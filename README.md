@@ -1,9 +1,16 @@
-# React TypeScript Starter Pack
+# Front End Developer Code Challenge part-2-js
+- [DEMO LINK](https://ShevchyshynRoman.github.io/art-code-part2-js/)
 
-To use this template click `Use this template`
+## Description
+Gist: Create a page that will have 3 dropdowns to save from the selected values in the URL.
 
-### Available Scripts
+## Local development
 
-`Deploy` - available to deploy your application to gh-pages
+### Dependencies
+* Node v14.8.2 and higher
+* NPM v8.12.2 and higher
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+### Installing
+* Fork and clone this repository
+* Run `npm install` in your terminal
+* Run `npm start`
